@@ -1,0 +1,16 @@
+.myh3{
+ text-align:center ;
+  color:aqua; 
+}
+ul{
+ list-style: none;   
+}
+button{
+    height:80px;
+    width:90px;
+
+}
+button:hover{
+background-color: gray;
+color:white;
+}
